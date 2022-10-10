@@ -1,0 +1,5 @@
+library("tidyr")
+energy1 <- t(energy)
+class(energy1)
+energy2 <- as.data.frame(energy1)
+names(energy2) <- gsub("V", "Year", names(energy2))
