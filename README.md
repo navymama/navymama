@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...music sports and computers
 - 🌱 I’m currently learning ...data science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...reach me on slack
+- 📫 How to reach me ...reach me at sonymartin91@gmail.com
+-
 
 <!---
 navymama/navymama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
